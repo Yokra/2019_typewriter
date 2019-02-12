@@ -1,4 +1,5 @@
 "use strict";
+
 let typewriterText = document.querySelector("#typewriter").textContent;
 let counter = 0;
 
